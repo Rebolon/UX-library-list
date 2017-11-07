@@ -14,6 +14,7 @@ DevExpress : it has some more functionnal components like calendar : [jquery/ang
  * [PrimeNg](https://www.primefaces.org/primeng/#/)
  * [Teradata](https://teradata.github.io/covalent/#/components)
  * [Material](https://material.angular.io/components)
+ * [ngx-admin](https://github.com/akveo/ngx-admin)
  
 ### React
 
