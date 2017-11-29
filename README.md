@@ -19,7 +19,7 @@ DevExpress : it has some more functionnal components like calendar : [jquery/ang
 ### React
 
  * [PrimeReact](https://www.primefaces.org/primereact/#/)
- * [Ant](https://www.primefaces.org/primereact/#/) with rich components like calendar
+ * [Ant](https://ant.design/) with rich components like calendar
  * [Fabric](https://developer.microsoft.com/en-us/fabric#/components/detailslist)
  
 ### VueJS
