@@ -11,6 +11,7 @@ DevExpress : it has some more functionnal components like calendar : [jquery/ang
  
 ### Angular2+ (liste complète ici https://angular.io/resources)
 
+ * [Clarity](https://vmware.github.io/clarity/documentation)
  * [PrimeNg](https://www.primefaces.org/primeng/#/)
  * [Teradata](https://teradata.github.io/covalent/#/components)
  * [Material](https://material.angular.io/components)
