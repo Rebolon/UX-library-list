@@ -26,5 +26,6 @@ DevExpress : it has some more functionnal components like calendar : [jquery/ang
 ### VueJS
 
  * [Quasar](http://quasar-framework.org/components/)
+ * [Bootstrap-vue](https://bootstrap-vue.js.org)
  * [Element](http://element.eleme.io/#/en-US/component/)
  * [Vuetify](https://vuetifyjs.com/vuetify/quick-start)
