@@ -9,7 +9,7 @@ DevExpress : it has some more functionnal components like calendar : [jquery/ang
  * [Clarity](https://vmware.github.io/clarity/documentation)
  * [PrimeUI](https://www.primefaces.org/primeui/)
  
-### Angular2+ (liste complète ici https://angular.io/resources)
+### Angular2+ (complete list [angular.io](https://angular.io/resources))
 
  * [Clarity](https://vmware.github.io/clarity/documentation)
  * [PrimeNg](https://www.primefaces.org/primeng/#/)
@@ -23,7 +23,7 @@ DevExpress : it has some more functionnal components like calendar : [jquery/ang
  * [Ant](https://ant.design/) with rich components like calendar
  * [Fabric](https://developer.microsoft.com/en-us/fabric#/components/detailslist)
  
-### VueJS
+### VueJS (complete list: [awesome-vue](https://github.com/vuejs/awesome-vue))
 
  * [Quasar](http://quasar-framework.org/components/)
  * [Bootstrap-vue](https://bootstrap-vue.js.org)
