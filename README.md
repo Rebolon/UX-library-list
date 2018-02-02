@@ -1,7 +1,7 @@
 # UX-library-list
 
 ## Needs fees
-DevExpress : it has some more functionnal components like calendar : [jquery/angularJS/angular2+/.Net](https://js.devexpress.com/Demos/WidgetsGallery/)
+DevExpress : it has some more functionnal components like calendar : [jquery/angularJS/angular2+/.Net](https://js.devexpress.com/Demos/WidgetsGallery/) it seems that a react version is available
 
 ## Free
 ### Generics (Html/Css/Js)
