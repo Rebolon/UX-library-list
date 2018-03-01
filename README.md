@@ -1,7 +1,9 @@
 # UX-library-list
 
-## Needs fees
-DevExpress : it has some more functionnal components like calendar : [jquery/angularJS/angular2+/.Net](https://js.devexpress.com/Demos/WidgetsGallery/) it seems that a react version is available
+## Needs fees (usually per dev and per year)
+ * DevExpress: it has some more functionnal components like calendar : [jquery/angularJS/angular2+/.Net](https://js.devexpress.com/Demos/WidgetsGallery/) it seems that a react version is available. And it's free for open-source project (or non commercial ?)
+ * KendoUI: [Angular/React/Vue](https://www.telerik.com/kendo-ui)
+ * Sencha: [React](https://www.sencha.com/products/extreact/#app)
 
 ## Free
 ### Generics (Html/Css/Js)
