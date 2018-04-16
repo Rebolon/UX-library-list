@@ -2,7 +2,7 @@
 
 ## Needs fees (usually per dev and per year)
 ### With community edition under condition
- * DevExpress: it has some more functionnal components like calendar: [angular2+](https://js.devexpress.com/Demos/WidgetsGallery/), there is also a React version but it only has the Grid component for instance. Oh, i forgot: it's free for open-source project (or non commercial ?)
+ * DevExpress: it has some more functionnal components like calendar: [angular2+](https://js.devexpress.com/Demos/WidgetsGallery/), there is also a React version but it only has the Grid component for instance. Oh, i forgot: it's free for open-source project (or non commercial ?). **It seems that a VueJS version is comming: https://github.com/DevExpress/devextreme-vue it's based on v18-pre of devxtreme**
  * SyncFusion: like DevExpress a quite complete list of components: [Angular/React/ES6/ES5](https://ej2.syncfusion.com/home/)
 ### Without community edition
  * KendoUI: [Angular/React/Vue](https://www.telerik.com/kendo-ui)
