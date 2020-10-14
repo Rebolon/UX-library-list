@@ -2,7 +2,7 @@
 
 ## Needs fees (usually per dev and per year)
 ### With community edition under condition
- * DevExpress: it has some more functionnal components like calendar: [angular2+](https://js.devexpress.com/Demos/WidgetsGallery/), there is also a React version but it only has the Grid component for instance. Oh, i forgot: it's free for open-source project (or non commercial ?). **It seems that a VueJS version is comming: https://github.com/DevExpress/devextreme-vue it's based on v18-pre of devxtreme**
+ * DevExpress: it has some more functionnal components like calendar: [angular2+/React/Vue/VanillaJS](https://js.devexpress.com/Demos/WidgetsGallery/), Not all js frameworks has the same components for instance. Oh, i forgot: it's free for open-source project (or non commercial ?). 
  * SyncFusion: like DevExpress a quite complete list of components: [Angular/React/ES6/ES5](https://ej2.syncfusion.com/home/)
 ### Without community edition
  * KendoUI: [Angular/React/Vue](https://www.telerik.com/kendo-ui)
@@ -14,6 +14,7 @@
  * [Clarity](https://vmware.github.io/clarity/documentation)
  * [PrimeUI](https://www.primefaces.org/primeui/)
  * [Toast UI](https://github.com/nhn/tui.calendar) Some of their apps have wrappers for React, Angular or VueJS, but not all apps, neither all components
+ * [ElasticUI](https://elastic.github.io/eui/#/) also available for React
  
 ### Angular2+ (complete list [angular.io](https://angular.io/resources))
 
@@ -31,6 +32,7 @@
  * [Ant](https://ant.design/) with rich components like calendar
  * [Fabric](https://developer.microsoft.com/en-us/fabric#/components/detailslist)
  * [React-Bootstrap](https://react-bootstrap.github.io/)
+ * [ElasticUI](https://elastic.github.io/eui/#/)
  
 ### VueJS (complete list: [awesome-vue](https://github.com/vuejs/awesome-vue))
 
