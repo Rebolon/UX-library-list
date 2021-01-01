@@ -25,6 +25,7 @@
  * [ngx-admin](https://github.com/akveo/ngx-admin)
  * [ngx-bootstrap](https://ngx-bootstrap-latest.surge.sh/#/)
  * [ng-bootstrap](https://ng-bootstrap.github.io)
+ * [taiga by tinkoff](https://taiga-ui.dev/)
  
 ### React
 
