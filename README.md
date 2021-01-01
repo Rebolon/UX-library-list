@@ -15,6 +15,7 @@
  * [PrimeUI](https://www.primefaces.org/primeui/)
  * [Toast UI](https://github.com/nhn/tui.calendar) Some of their apps have wrappers for React, Angular or VueJS, but not all apps, neither all components
  * [ElasticUI](https://elastic.github.io/eui/#/) also available for React
+ * [Material Design for Bootstrap 5 & 4](https://mdbootstrap.com/) also available for Angular, React and VueJS
  
 ### Angular2+ (complete list [angular.io](https://angular.io/resources))
 
@@ -26,6 +27,7 @@
  * [ngx-bootstrap](https://ngx-bootstrap-latest.surge.sh/#/)
  * [ng-bootstrap](https://ng-bootstrap.github.io)
  * [taiga by tinkoff](https://taiga-ui.dev/)
+ * [Material Design for Bootstrap 5 & 4](https://mdbootstrap.com/)
  
 ### React
 
@@ -34,6 +36,7 @@
  * [Fabric](https://developer.microsoft.com/en-us/fabric#/components/detailslist)
  * [React-Bootstrap](https://react-bootstrap.github.io/)
  * [ElasticUI](https://elastic.github.io/eui/#/)
+ * [Material Design for Bootstrap 5 & 4](https://mdbootstrap.com/)
  
 ### VueJS (complete list: [awesome-vue](https://github.com/vuejs/awesome-vue))
 
@@ -42,3 +45,4 @@
  * [Vuetify](https://vuetifyjs.com/vuetify/quick-start)
  * [iview-ui](https://www.iviewui.com/components/page-en)
  * [Element](http://element.eleme.io/#/en-US/component/)
+ * [Material Design for Bootstrap 5 & 4](https://mdbootstrap.com/)
