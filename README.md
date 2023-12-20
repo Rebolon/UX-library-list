@@ -4,6 +4,7 @@
 ### With community edition under condition
  * DevExpress: it has some more functionnal components like calendar: [angular2+/React/Vue/VanillaJS](https://js.devexpress.com/Demos/WidgetsGallery/), Not all js frameworks has the same components for instance. Oh, i forgot: it's free for open-source project (or non commercial ?). 
  * SyncFusion: like DevExpress a quite complete list of components: [Angular/React/ES6/ES5](https://ej2.syncfusion.com/home/)
+ * Smart Elements : lots of components available as webcomponentrs or for framework Angular, Vue, React ... [https://www.htmlelements.com]
 ### Without community edition
  * KendoUI: [Angular/React/Vue](https://www.telerik.com/kendo-ui)
  * Sencha: [React](https://www.sencha.com/products/extreact/#app)
